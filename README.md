@@ -1,4 +1,3 @@
-
 # Rock-Paper-Scissors Game 🎮
 
 This is a simple **Rock-Paper-Scissors** game built using Python. It runs in the terminal and allows you to play against the computer.
